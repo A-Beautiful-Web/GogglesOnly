@@ -10,7 +10,7 @@ $boost,site=automobilemag.com
 $boost,site=autoweek.com
 $boost,site=jalopnik.com
 $boost,site=oldcarsweekly.com
-$boost,site=reddit.com/r/classiccars
+/classiccars/$boost,site=reddit.com
 
 ! --- DISCARD: Automakers ---
 $discard,site=ford.com
