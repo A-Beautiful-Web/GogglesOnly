@@ -111,5 +111,15 @@ exclude = [
   “pinterest.co.uk”
   “pinterest.com”
   “pinterest.com.au”
-  “pinterestcareers.com”
+  “huffingtonpost.co.uk”,
+  “amazon.co.uk”,
+  “mayoclinic.com”
+  “cdc.gov”
+  “medium.com”,
+  “factcheck.or”,
+  “snopes.com”
+  “ms.now”
+  “bbc.com”
+  “npr.org”
+  “usnews.com”
 ]
