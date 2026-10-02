@@ -115,9 +115,13 @@ exclude = [
   “amazon.co.uk”,
   “mayoclinic.com”
   “cdc.gov”
+  "https://www.cdc.gov"
   “medium.com”,
-  “factcheck.or”,
-  “snopes.com”
+  “factcheck.org”,
+  “huffingtonpost.com”
+  "huffpost.com"
+  "https://www.webmd.com"
+  "https://wwwn.cdc.gov"
   “ms.now”
   “bbc.com”
   “npr.org”
